@@ -91,10 +91,6 @@ const Footer = () => {
 
           <span className="development">
             <span className="development--text">Design & Development:</span>
-            <a target={"_blank"} rel="noopener noreferrer" href="https://litnevski.studio/">
-              <img src={eyeLogo} alt="site logo" />
-              Litnevski studio
-            </a>
           </span>
         </div>
       </footer>
